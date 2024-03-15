@@ -1,6 +1,8 @@
 package main
 
 /*
+#!/usr/bin/python3
+
 import requests
 
 request = {
